@@ -13,42 +13,42 @@ $("#submit").click(function (event) {
   //***Skillset***
   
   if ($("#product_tester").is(':checked'))
-    experience.push(`I have worked with clients to review their products, including a heat pillow and books.  <br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.  <br/><br/>`);  // checked
   else
     experience.push("");
 
   if ($("#internet_researcher").is(':checked'))
-    experience.push(`I have worked with clients to research their needs online.  I have analyzed videos for customer behaviors.  I have researched product prices and competition for analysis.  I have worked to create personality analysis through customer reviews through social media.  I have done research into vacation planning, including Europe and South America.  I have researched leads for different educational institutions.<br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
   if ($("#network_connections").is(':checked'))
-    experience.push(`I have researched leads, including emails and other data points.  I have also nurtured leads to the point that they were willing to speak with my clients.<br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
   if ($("#data_entry").is(':checked'))
-    experience.push(`I have transcribed PDFs into Word documents.  I have manually transferred data from one platform to another.  I have created graphs and tables for clients' dashboards.  I have created mail-merge campaigns.  I have performed basic bookkeeping data entry in Quickbooks.<br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
   if ($("#calendar_organization").is(':checked'))
-    experience.push(`I have scheduled appointments for clients. I have set up appointment reminders.<br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
   if ($("#customer_service_contractor").is(':checked'))
-    experience.push(`I have taken inbound calls and sent outbound calls.  I have created transcripts and outlines for more confident handling.  I have processed orders and answered customers' questions through email.<br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
   if ($("#hCSS").is(':checked'))
-    experience.push(`I have worked with HTML email coding through volunteer projects.<br/><br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
   if ($("#portfolio").is(':checked'))
-    experience.push(`Please check out my Github repository: https://github.com/petersvirtualservices?tab=repositories<br/>My online portfolio: http://cpetersresume.com/<br/>`);  // checked
+    experience.push(`Sentence on qualifications.`);  // checked
   else
     experience.push("");
 
